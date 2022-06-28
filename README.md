@@ -23,6 +23,7 @@ I'm an Italian/Lebanese frontend developer living in Germany, passionate about b
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+<a href="https://sanity.io" target="_blank"> <img src="https://spectrum.imgix.net/communities/3dd95226-4475-4f9a-8324-a4ac8ffdc4d5/B1Yr0X-oG-sanity_logo.png?w=256&h=256&dpr=2&auto=compress&expires=1655078400000&ixlib=js-1.3.0&s=acfe2585ce5372d1856adc30349d0adb" alt="Sanity" height="45px"/> </a>
 <a href="https://cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" height="45px" width="45px"> </a>
 <a href="https://graphql.com" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -31,5 +32,6 @@ I'm an Italian/Lebanese frontend developer living in Germany, passionate about b
 <a href="https://figma.com" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"/> </a>
 <a href="https://webflow.com" target="_blank"> <img src="https://assets-global.website-files.com/5e4b0a5b34c5f3761e44d678/5e4b0a5b34c5f3f42344d6d2_webflow-logo-vector-white_fitted.svg" alt="Webflow" width="45px" height="45px"/> </a>
 </div>
+
 
 
