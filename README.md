@@ -7,8 +7,8 @@ I'm an Italian/Lebanese frontend developer living in Germany, passionate about b
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> </a>
 <a href="https://sass-lang.com" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
  <a href="https://electronjs.com" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> </a>
 <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
