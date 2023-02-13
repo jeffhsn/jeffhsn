@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jafar Hussein
 =====================================================================================================================================
 
-Fullstack developer
+Marketing expert and developer
 -------------------
 
 * 🌍  I'm based in Essen  🇩🇪
-* 🖥️  See my portfolio at [jeffhsn.dev](http://jeffhsn.dev)
-* ✉️  You can contact me at [hello@jeffhsn.dev](mailto:hello@jeffhsn.dev)
-* 🚀  I'm currently working on [automobilx.de](http://automobilx.de)
-* 🧠  I'm learning solidity
+* 🖥️  See my portfolio at [jeffhsn.com](http://jeffhsn.com)
+* ✉️  You can contact me at [hello@jeffhsn.com](mailto:hello@jeffhsn.com)
+* 🚀  I'm currently working on my blog
+* 🧠  I'm learning python
 * 🤝  I'm open to collaborating on interesting startup projects
 
 ### Skills
