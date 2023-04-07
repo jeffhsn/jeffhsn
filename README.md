@@ -8,7 +8,7 @@ Digital marketer, sometimes developer
 * 🖥️  See my portfolio at [jeffhsn.com](http://jeffhsn.com)
 * ✉️  You can contact me at [hello@jeffhsn.com](mailto:hello@jeffhsn.com)
 * 🚀  I'm currently working on my website
-* 🧠  I'm learning Nodejs
+* 🧠  I'm learning more about the blockchain and web3
 * 🤝  I'm open to collaborating on interesting startup projects
 
 ### Skill
