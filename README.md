@@ -7,11 +7,11 @@ Digital marketer, sometimes developer
 * 🌍  I'm based in Essen  🇩🇪
 * 🖥️  See my portfolio at [jeffhsn.com](http://jeffhsn.com)
 * ✉️  You can contact me at [hello@jeffhsn.com](mailto:hello@jeffhsn.com)
-* 🚀  I'm currently working on my blog
+* 🚀  I'm currently working on my website
 * 🧠  I'm learning python
 * 🤝  I'm open to collaborating on interesting startup projects
 
-### Skills
+### Skill
 
 
 <p align="left">
