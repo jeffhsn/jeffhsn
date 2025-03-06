@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 Full-stack developer
 -------------------
 
-* 🌍  I'm based in Germany 🇩🇪
+* 🌍  I'm 🇱🇧🇮🇹 based in 🇩🇪
 * 🖥️  See my portfolio at [jeffhsn.com](http://jeffhsn.com)
 * ✉️  You can contact me at [hello@jeffhsn.com](mailto:contact@jeffhsn.com)
 * 🚀  I'm currently working on an e-commerce project
-* 🧠  I'm learning more about the blockchain and web3
-* 🤝  I'm open to collaborating on interesting startup projects
+* 🧠  I'm learning mobile development
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skill
 
