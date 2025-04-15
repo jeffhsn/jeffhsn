@@ -6,7 +6,7 @@ Full-stack developer
 
 * 🌍  I'm 🇱🇧🇮🇹 based in 🇩🇪
 * 🖥️  See my portfolio at [jeffhsn.com](http://jeffhsn.com)
-* ✉️  You can contact me at [hello@jeffhsn.com](mailto:contact@jeffhsn.com)
+* ✉️  You can contact me at [contact@jeffhsn.com](mailto:contact@jeffhsn.com)
 * 🚀  I'm currently working on an e-commerce project
 * 🧠  I'm learning mobile development
 * 🤝  I'm open to collaborating on interesting projects
